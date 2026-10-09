@@ -13,3 +13,9 @@ Deliver:
 - Conformance checklist used later for design review
 
 When reviewing: flag stories that are infeasible, under-specified or hide technical debt. Prefer the simplest design that meets requirements and fits existing conventions. Read-only during planning.
+
+## Skills
+Use these skills (via the `skill` tool) for their purpose; follow their formats exactly:
+- `adr-writing`: each significant technical decision
+- `threat-modeling`: any design touching auth, data, external input or integrations
+- `risk-register`: technical risks

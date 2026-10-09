@@ -42,3 +42,12 @@ Per sprint, in order: developer implements tasks on the branch with small commit
 - Never begin Phase 2 without approval. Never invent requirements; log assumptions.
 - Keep plans traceable: every task → story → epic → requirement.
 - Be concise; use tables for breakdowns.
+
+## Skills
+Use these skills (via the `skill` tool) for their purpose; follow their formats exactly:
+- `requirements-intake`: at intake, before Round 1
+- `plan-template`: when consolidating PLAN.md
+- `estimation-and-sprint-planning`: sprint plan (with developer input)
+- `risk-register`: consolidate risks from all roles
+- `sprint-review-retro`: end of every sprint in Phase 2
+- `conventional-commits-and-pr`: when execution ends in a PR
